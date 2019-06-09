@@ -2,8 +2,8 @@ const CACHE_NAME = 'cache-v0.0.0'
 const CACHED_URLS = [
   '/',
   '/manifest.json',
-  '/images/logo-192x192.png',
-  '/images/logo-512x512.png',
+  '/images/icon-192x192.png',
+  '/images/icon-512x512.png',
   '/style.css'
 ]
 
